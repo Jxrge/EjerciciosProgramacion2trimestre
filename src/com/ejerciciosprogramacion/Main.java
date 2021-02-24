@@ -1,6 +1,6 @@
 package com.ejerciciosprogramacion;
 
-public class Main {
+public class Boletin14 {
 
     public static void main(String[] args) {
         ConversorTemperaturas temperatura1 = new ConversorTemperaturas();
